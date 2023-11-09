@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://amanpan19.github.io/Portfolio/](https://amanpan19.github.io/Portfolio/)
 
