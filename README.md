@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amanp.jun1906@gmail.com**
 
-- 📄 Know about my experiences [You can check it on linkedin](You can check it on linkedin)
+- 📄 Know about my experiences (You can check it on my linkedin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
