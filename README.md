@@ -12,7 +12,7 @@
 - 🏢 Currently working as **Software Developer at Giglabz Pvt. Ltd.** *(Feb 2024 - Present)*
 - 💼 **2+ years** of experience building scalable **REST APIs** and **Microservices** in healthcare and food-tech domains
 - 🔭 I'm currently working on **[My Care Team Online & Patient Registry System](https://amanpan19.github.io/Portfolio/)**
-- 🌱 I'm currently learning **React & Spring Cloud Advanced Patterns**
+- 🌱 I'm currently learning **Kafka**
 - 💬 Ask me about **Java, Spring Boot, Angular, Microservices, REST APIs**
 - 📫 Reach me at **amanp.jun1906@gmail.com**
 - 📄 Check out my **[Portfolio](https://amanpan19.github.io/Portfolio/)**
