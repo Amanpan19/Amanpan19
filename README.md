@@ -1,22 +1,92 @@
 <h1 align="center">Hi 👋, I'm Aman Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices | Angular</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://amanpan19.github.io/Portfolio/](https://amanpan19.github.io/Portfolio/)
-
-- 💬 Ask me about **Angular, Java, HTML5, CSS3 etc,**
-
-- 📫 How to reach me **amanp.jun1906@gmail.com**
-
-- 📄 Know about my experiences (You can check it on my linkedin)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/amanp-19-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amanp-19-tech" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/amanp19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amanp19" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amanp_dec19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amanp_dec19" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanpan19&label=Profile%20views&color=0e75b6&style=flat" alt="amanpan19" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+- 🏢 Currently working as **Software Developer at Giglabz Pvt. Ltd.** *(Feb 2024 - Present)*
+- 💼 **2+ years** of experience building scalable **REST APIs** and **Microservices** in healthcare and food-tech domains
+- 🔭 I'm currently working on **[My Care Team Online & Patient Registry System](https://amanpan19.github.io/Portfolio/)**
+- 🌱 I'm currently learning **React & Spring Cloud Advanced Patterns**
+- 💬 Ask me about **Java, Spring Boot, Angular, Microservices, REST APIs**
+- 📫 Reach me at **amanp.jun1906@gmail.com**
+- 📄 Check out my **[Portfolio](https://amanpan19.github.io/Portfolio/)**
+
+---
+
+### 🚀 Work Experience
+
+**Software Developer — Giglabz Pvt. Ltd.** *(Feb 2024 - Present)*
+- ⚡ Designed scalable RESTful APIs using Java & Spring Boot with response time of **100–200ms**
+- 📉 Optimized DB queries resulting in **20% reduction** in processing time
+- 🧱 Built modular backend components following **SOLID principles** and clean architecture
+- 🚀 Managed deployments across **Dev, Test & Production** environments
+
+---
+
+### 🛠️ Projects
+
+**🏥 My Care Team Online (MCT) — Giglabz**
+> Care teams have more control and choice over services to support individuals in achieving their life goals
+- Engineered **30+ RESTful APIs** using Java and Spring Boot
+- Investigated and eliminated **150+ bugs**, enhancing stability
+- Integrated APIs with frontend team and aligned features with business requirements
+- `Java` `Spring Boot` `MySQL` `AWS S3` `GitHub` `Postman` `WinSCP` `PuTTY`
+
+**🏨 Patient Registry System (PRS) — Giglabz**
+> A system to manage and track patient records efficiently
+- Built **40+ RESTful APIs** with entity modeling
+- Wrote complex **PostgreSQL** queries for efficient data retrieval
+- Introduced **audit logging using Spring AOP** for traceability
+- Integrated external APIs for secure data exchange
+- `Java` `Spring Boot` `PostgreSQL` `Spring Cloud` `AWS S3` `GitHub` `Postman`
+
+**🍔 Foodie Application — Personal Project**
+> Online food ordering platform with microservices architecture
+- Constructed **JWT-based authentication** for real-time session validation
+- Established synchronous communication between services using **Feign Client**
+- `HTML` `CSS` `TypeScript` `Java` `Spring Boot` `Angular` `MySQL` `Docker` `RabbitMQ` `Bootstrap`
+- [Frontend](https://amanpan19.github.io/Portfolio/) | [Backend](https://amanpan19.github.io/Portfolio/) | [View](https://amanpan19.github.io/Portfolio/)
+
+---
+
+### 🧰 Tech Stack
+
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Frameworks & Technologies
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/amanp-19-tech" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/amanp19" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/amanp_dec19" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
